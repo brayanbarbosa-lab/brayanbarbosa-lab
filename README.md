@@ -1,4 +1,4 @@
-# 🤖 Brayan Barbosa 
+# ⚡ Brayan Barbosa 
 
 **`Desenvolvedor Full Stack Júnior`**
 
