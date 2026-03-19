@@ -1,4 +1,4 @@
-# Olá, eu sou o Brayan Barbosa 👋
+# 🤖 Brayan Barbosa 
 
 **`Desenvolvedor Full Stack Júnior`**
 
@@ -35,17 +35,6 @@ Tenho 18 anos, sou de São Paulo – SP e apaixonado por tecnologia desde cedo. 
   </a>
 </p>
 
----
-
-### 🚀 Sobre mim
-
-- 🎓 Cursando **Ciência da Computação** na FIAP (2026–2029)
-- 🛠️ TCC: **Wattalyze** — monitoramento de energia em tempo real com IoT (ESP32 + PHP + InfluxDB)
-- 📚 Estudando **JavaScript, Node.js e React** na Alura
-- 💬 Inglês **B2** (Intermediário Avançado)
-- 🌎 São Paulo – SP
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -66,17 +55,6 @@ Tenho 18 anos, sou de São Paulo – SP e apaixonado por tecnologia desde cedo. 
 
 <br/><br/>
 
----
-
-### 📌 Projetos em Destaque
-
-**🔋 Wattalyze** — *TCC (2025)*  
-Solução IoT para monitoramento de consumo energético em tempo real. Desenvolvido com ESP32, sensores de corrente e tensão, backend em PHP e banco de dados InfluxDB.
-
-**🗂️ Sistemas CRUD** — *2023–2025*  
-Sistemas completos com PHP/MySQL e C#/.NET, com validação de dados, organização em camadas e interface funcional.
-
----
 
 ### 📊 Estatísticas
 
